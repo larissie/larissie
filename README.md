@@ -9,8 +9,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  
-  ![Snake animation](https://github.com/larissie/larissie/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/larissie/larissie/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=larissie&repo=larissie&theme=react)](https://github.com/larissie/larissie)
   
           
