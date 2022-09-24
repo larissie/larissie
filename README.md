@@ -4,12 +4,17 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissie&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
+ 
+### Estou aprendendo: 👋
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-  ![Snake animation](https://github.com/larissie/larissie/blob/output/github-contribution-grid-snake.svg)
-
+  <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
+  
+  <img align="left" alt="octocat" height="150" width="150" src="https://github.com/larissie/larissie/blob/3def620b4db7351956d8f747b7ea1dbf834aab43/octocat-1664052916701.png">
+
+![Snake animation](https://github.com/larissie/larissie/blob/output/github-contribution-grid-snake.svg) 
+
           
