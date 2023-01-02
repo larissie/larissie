@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a)! Meu nome é Larissa 👋
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1arissa&show_icons=true&theme=nightowl&include_all_commits=true&count_public=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1arissa&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1arissa&show_icons=true&theme=nord&include_all_commits=true&count_public=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1arissa&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 ### Estou aprendendo:
