@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/1arissa"><img width="40%" alt="Hello" src="Hello!.png" /></a></p>
 <p align="center">
 <code><img height="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 </p>
 
